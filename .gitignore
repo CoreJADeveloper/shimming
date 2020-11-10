@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+
+
+# Ignore everything
+dist/*
+
+# But not these files...
+!dist/index.html
